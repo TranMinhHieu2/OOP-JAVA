@@ -1,2 +1,3 @@
 # OOP-JAVA
-my code with intenilj at ptit
+my coding with java language and ife Intelij
+
